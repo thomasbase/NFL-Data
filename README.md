@@ -1,0 +1,1 @@
+This project is a work in progress. The goal is to scrape, transform, and apply feature engineering to online NFL data, then build a supervised or unsupervised machine learning algorithm to provide some sort of insight on nfl teams/players with the upcoming season in loom.
